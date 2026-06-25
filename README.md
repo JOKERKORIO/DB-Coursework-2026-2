@@ -141,7 +141,6 @@ Plataforma web para la gestión integral de un refugio de animales, donde los us
 ### 🔗 Enlaces
 Admin de Chocolate:MON-001      Contraseña:123456
 - **Código Fuente:** [Repositorio en GitHub](https://github.com/JOKERKORIO/patitas-api)
-- **Demo en Vivo (Railway):** [Patitas Felices API](https://patitas-backend-production.up.railway.app/)
 - **Demo en Vivo (GitHub Pages):** [Patitas Felices Web](https://jokerkorio.github.io/patitas-api/#)
 
 
